@@ -2,7 +2,8 @@
 
 A clojure project designed to scrape the Mtcbus.org
 
-
+Right now this project is grossly incomplete
+It just scrapes and builds a db , I plan to convert this into an Library.
 
 ## Usage
 
