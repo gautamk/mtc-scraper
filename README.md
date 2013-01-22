@@ -1,5 +1,6 @@
 # mtc-scraper
 
+[![Build Status](https://travis-ci.org/gautamk/mtc-scraper.png?branch=master)](undefined)
 A clojure project designed to scrape the Mtcbus.org
 
 Right now this project is grossly incomplete
