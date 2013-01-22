@@ -1,10 +1,12 @@
 # mtc-scraper
 
-A Clojure library designed to ... well, that part is up to you.
+A clojure project designed to scrape the Mtcbus.org
+
+
 
 ## Usage
 
-FIXME
+`$ lein run`
 
 ## License
 
