@@ -1,4 +1,4 @@
-(defproject clj-startup "0.1.0-SNAPSHOT"
+(defproject mtc-scraper "0.1.0-SNAPSHOT"
   :description "Clojure scraping"
   :url "http://gautamk.com"
   :license {:name "Eclipse Public License"
@@ -11,5 +11,5 @@
                     [mysql/mysql-connector-java "5.1.22"]
             
                 ]
-    :main clj-startup.core
+    :main mtc-scraper.core
 )

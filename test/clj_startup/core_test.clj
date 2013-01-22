@@ -1,6 +1,6 @@
-(ns clj-startup.core-test
+(ns mtc-scraper.core-test
   (:use clojure.test
-        clj-startup.core))
+        mtc-scraper.core))
 
 (deftest a-test
   (testing "FIXME, I fail."

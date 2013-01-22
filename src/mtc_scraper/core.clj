@@ -1,4 +1,4 @@
-(ns clj-startup.core
+(ns mtc-scraper.core
   (:require [net.cgrand.enlive-html :as html]))
 (use 'korma.db)
 (use 'korma.core)
