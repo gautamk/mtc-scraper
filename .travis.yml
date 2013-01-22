@@ -3,3 +3,9 @@ lein: lein2
 jdk:
   - openjdk7
   - openjdk6
+
+notifications:
+  email:
+    recipients:
+        - gautham5678@gmail.com
+        
