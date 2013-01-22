@@ -11,6 +11,6 @@ It just scrapes and builds a db , I plan to convert this into an Library.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 gautamk (mataug)
 
 Distributed under the Eclipse Public License, the same as Clojure.
